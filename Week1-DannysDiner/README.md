@@ -21,10 +21,10 @@ The 8 Weeks SQL challenge is a challenge created by Danny, and this project is a
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customers A and B have at the end of January?
 
 # INSIGHTS
-1.CASE 1: A has spent the most while C has spent the least amount
-2.CASE 2: B is the most frequent customer while C is the least frequent customer
-3.CASE 3: Customer A's first items were curry and sushi, B bought curry and C bought ramen.
-4.CASE 4: B is the most frequent customer while C is the least frequent customer
+1. CASE 1: A has spent the most while C has spent the least amount
+2. CASE 2: B is the most frequent customer while C is the least frequent customer
+3. CASE 3: Customer A's first items were curry and sushi, B bought curry and C bought ramen.
+4. CASE 4: B is the most frequent customer while C is the least frequent customer
 
 
 
