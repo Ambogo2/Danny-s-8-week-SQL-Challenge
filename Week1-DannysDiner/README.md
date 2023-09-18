@@ -26,6 +26,7 @@ The 8 Weeks SQL challenge is a challenge created by Danny, and this project is a
 *  **CASE 7:**
 *  **CASE 8:** A spent 25 before becoming a member B spent 40 while both purchased 2 items
 *  **CASE 9:** B has the most points followed by A then C
+*  **CASE 10:** A had the most points followed by B
 
 
 
