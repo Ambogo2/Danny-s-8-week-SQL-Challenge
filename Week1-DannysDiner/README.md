@@ -23,6 +23,8 @@ The 8 Weeks SQL challenge is a challenge created by Danny, and this project is a
 * **CASE 4:** Ramen is the most popular it has been ordered 8 times, curry has been ordered 4 times while sushi has been ordered 3 times
 * **CASE 5:**
 * **CASE 6:** A's first purchase after becoming a member was curry while B's was sushi.
+*  **CASE 7:**
+*  **CASE 8:** A spent 25 before becoming a member B spent 40 while both purchased 2 items
 *  
 
 
