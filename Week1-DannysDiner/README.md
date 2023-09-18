@@ -24,7 +24,10 @@ The 8 Weeks SQL challenge is a challenge created by Danny, and this project is a
 * **CASE 1:** A has spent the most while C has spent the least amount
 * **CASE 2:** B is the most frequent customer while C is the least frequent customer
 * **CASE 3:** Customer A's first items were curry and sushi, B bought curry and C bought ramen.
-* **CASE 4:** B is the most frequent customer while C is the least frequent customer
+* **CASE 4:** Ramen is the most popular it has been ordered 8 times, curry has been ordered 4 times while sushi has been ordered 3 times
+* **CASE 5:**
+* **CASE 6:** A's first purchase after becoming a member was curry while B's was sushi.
+*  
 
 
 
