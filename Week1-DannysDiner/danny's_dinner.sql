@@ -113,12 +113,3 @@ SELECT customer_id, sum(newprice)*10 as points_received from finalpoints
 GROUP BY customer_id 
 ORDER BY points_received DESC;
  
- 
-
-
-  
-  
-  
-  
-  
-  
